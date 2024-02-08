@@ -1,0 +1,7 @@
+{
+  "name": "dup-ion-module",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
